@@ -5,6 +5,6 @@ Primeiro projetinho da facul usando HTML, CSS e JS. Básicão, porém gostei mui
 
 
 Link pro site:
-https://visi3.github.io/Projetinhos/
+https://visi3.github.io/Calculadora/
 
 Bjs, Visi ;)
